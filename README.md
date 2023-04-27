@@ -12,3 +12,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 shiny run --reload
 ```
+
+## More Infomation
+
+<https://shiny.posit.co/py/>
